@@ -1,0 +1,39 @@
+﻿^contentpage {
+    background-color: ghostwhite;
+}
+
+#lbl {
+    background-color: black;
+}
+
+stacklayout {
+    background-color: orangered;
+    margin: 20;
+    
+}
+
+.lblTitulo {
+    margin: 5;
+    font-style: bold;
+    font-size: medium;
+    text-align: center;
+}
+
+button {
+    border-color: yellow;
+    border-width: 3;
+    color: blue;
+}
+
+stacklayout image {
+    height: 200;
+    width: 200;
+}
+
+.CSSButton {
+    background-color: #11313F;
+    color: white;
+    font-size: 16;
+    height: 60;
+    border: 0;
+}
